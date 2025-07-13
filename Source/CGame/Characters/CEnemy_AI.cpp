@@ -21,10 +21,11 @@ void ACEnemy_AI::BeginPlay()
 	
 	LabelWidget->InitWidget();
 
-	UCUserWidget_Enemy* label = Cast<UCUserWidget_Enemy>(LabelWidget->GetUserWidgetObject());
-	label->UpdateHealth(HealthPoint->GetHealth(), HealthPoint->GetMaxHealth());
-	label->UpdateName(GetName());
-	label->UpdateControllerName(GetController()->GetName());
+	UCUserWidget_Enemy* Label = Cast<UCUserWidget_Enemy>(LabelWidget->GetUserWidgetObject());
+	//UCUserWidget_Enemy* Cursor = Cast<UCUserWidget_Enemy>(CursorWidget->GetUserWidgetObject());
+	Label->UpdateHealth(HealthPoint->GetHealth(), HealthPoint->GetMaxHealth());
+	Label->UpdateName(GetName());
+	Label->UpdateControllerName(GetController()->GetName());
 }
 
 void ACEnemy_AI::Damaged()
@@ -56,9 +57,12 @@ ACEnemy_AI::ACEnemy_AI()
 	CHelpers::CreateActorComponent<UCAIBehaviorComponent>(this, &Behavior, "Behavior");
 
 	TSubclassOf<UCUserWidget_Enemy> labelClass;
+	//TSubclassOf<UCUserWidget_Enemy> cursorClass;
 	CHelpers::GetClass(&labelClass, "WidgetBlueprint'/Game/Widgets/WB_Enemy.WB_Enemy_C'");
+	//CHelpers::GetClass(&labelClass, "WidgetBlueprint'/Game/Widgets/WB_TargtetIcon.WB_TargtetIcon_C'");
 
 	LabelWidget->SetWidgetClass(labelClass);
+	//LabelWidget->SetWidgetClass(cursorClass);
 	LabelWidget->SetRelativeLocation(FVector(0, 0, 220));
 	LabelWidget->SetDrawSize(FVector2D(120, 0));
 	LabelWidget->SetWidgetSpace(EWidgetSpace::Screen);

@@ -34,6 +34,9 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	class UWidgetComponent* LabelWidget;
 
+	UPROPERTY(VisibleAnywhere)
+	class UWidgetComponent* CursorWidget;
+
 // #if WITH_EDITOR
 // private:	
 // 	UPROPERTY(VisibleAnywhere)
