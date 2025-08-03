@@ -46,28 +46,26 @@
 
 ---
 
-<h2>🖼️ 게임 결과 화면</h2>
+## 🖼️ 게임 결과 화면
 
 <table>
   <tr>
-    <th>활 조준 연출</th>
-    <th>파쿠르 이동</th>
+    <th>파쿠르 실행</th>
+    <th>활 공격</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/YOUR-ID/assets/your-bow-aim.gif" width="100%"></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/63eaacd9-0e1b-4809-b6a7-d649764e09b7" width="350px" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/5f8a33c7-9a56-4613-a444-7b8af64518ba" width="350px" height="200px"></td>
   </tr>
   <tr>
-    <th>보스 전투 장면</th>
-    <th>무기 교체 & 공격</th>
+    <th>플레이어 콤보</th>
+    <th>적 공격 잔상 시스템</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/YOUR-ID/assets/your-boss-battle.gif" width="100%"></td>
-    <td><img src="https://github.com/YOUR-ID/assets/your-combat.gif" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/88446d96-a79c-4078-a07f-8b3fb88f05eb" width="350px" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/2873cbc1-d7a1-45b3-b474-2ff85273c305" width="350px" height="200px"></td>
   </tr>
 </table>
-
-<p align="center">※ 위 이미지는 실제 플레이 장면에서 캡처된 연출입니다.</p>
 
 ---
 
@@ -75,5 +73,9 @@
 
 - 📹 [플레이 영상 보기](https://youtu.be/GogdZGq0ry8)  
 - 📄 [개발 명세서 (Notion)](https://melted-part-f0c.notion.site/Keep-Of-War-21f924ed314980c1a296d35f9729d9ea?source=copy_link)  
-- 💻 [GitHub 저장소](https://github.com/YEAHWA1010/Keep-of-War)
 
+---
+
+## 📧 이메일
+
+yea2979@naver.com
