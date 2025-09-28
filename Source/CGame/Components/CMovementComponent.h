@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Components/ActorComponent.h"
 #include "CMovementComponent.generated.h"
 

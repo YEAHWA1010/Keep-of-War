@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Weapons/CDoAction.h"
 #include "CDoAction_Combo.generated.h"
 

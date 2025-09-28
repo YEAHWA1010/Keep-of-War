@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Animation/AnimNotifies/AnimNotify.h"
 #include "CAnimNotify_CameraShake.generated.h"
 

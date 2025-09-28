@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Characters/CEnemy.h"
 #include "CEnemy_AI.generated.h"
 

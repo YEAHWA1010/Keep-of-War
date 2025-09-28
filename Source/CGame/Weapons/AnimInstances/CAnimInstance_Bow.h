@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Animation/AnimInstance.h"
 #include "CAnimInstance_Bow.generated.h"
 

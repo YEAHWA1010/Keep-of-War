@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "GameFramework/Character.h"
 #include "Characters/IStateable.h"
 #include "Components/CStateComponent.h"

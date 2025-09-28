@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Weapons/CSubAction.h"
 #include "Components/TimelineComponent.h"
 #include "CSubAction_Bow.generated.h"

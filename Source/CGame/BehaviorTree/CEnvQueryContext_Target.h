@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "EnvironmentQuery/EnvQueryContext.h"
 #include "CEnvQueryContext_Target.generated.h"
 

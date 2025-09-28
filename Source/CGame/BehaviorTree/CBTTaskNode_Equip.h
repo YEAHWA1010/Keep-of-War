@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "BehaviorTree/BTTaskNode.h"
 #include "Components/CWeaponComponent.h"
 #include "CBTTaskNode_Equip.generated.h"

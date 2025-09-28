@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Weapons/CAttachment.h"
 #include "CAttachment_Bow.generated.h"
 

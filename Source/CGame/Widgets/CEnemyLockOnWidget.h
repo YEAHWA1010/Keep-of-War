@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Blueprint/UserWidget.h"
 #include "CEnemyLockOnWidget.generated.h"
 

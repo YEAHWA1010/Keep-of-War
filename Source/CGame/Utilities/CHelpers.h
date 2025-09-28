@@ -1,6 +1,6 @@
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Components/PoseableMeshComponent.h"
 
 #define CheckTrue(x) { if(x == true) return; }

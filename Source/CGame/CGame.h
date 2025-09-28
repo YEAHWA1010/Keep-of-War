@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 
 #if PLATFORM_WINDOWS
   #ifdef UpdateResource

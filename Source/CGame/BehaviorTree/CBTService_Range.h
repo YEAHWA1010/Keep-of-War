@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "BehaviorTree/BTService.h"
 #include "CBTService_Range.generated.h"
 

@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "BehaviorTree/BTTaskNode.h"
 #include "Components/CMovementComponent.h"
 #include "CBTTaskNode_Speed.generated.h"

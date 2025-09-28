@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "UObject/Interface.h"
 #include "IStateable.generated.h"
 

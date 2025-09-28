@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "UObject/NoExportTypes.h"
 #include "CWeaponData.generated.h"
 

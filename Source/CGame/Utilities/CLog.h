@@ -1,6 +1,6 @@
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 
 class CGAME_API CLog
 {

@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Engine/DataAsset.h"
 #include "Weapons/CWeaponStructures.h"
 #include "CWeaponAsset.generated.h"

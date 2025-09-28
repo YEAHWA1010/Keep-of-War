@@ -1,6 +1,6 @@
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "BehaviorTree/BTTaskNode.h"
 #include "CBTTaskNode_Patrol.generated.h"
 

@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Animation/AnimNotifies/AnimNotifyState.h"
 #include "CAnimNotifyState_Collision.generated.h"
 

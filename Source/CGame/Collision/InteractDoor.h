@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "Components/TimelineComponent.h"
 #include "GameFramework/Actor.h"
 #include "InteractDoor.generated.h"

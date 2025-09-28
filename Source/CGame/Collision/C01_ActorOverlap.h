@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "CGame.h"
 #include "GameFramework/Actor.h"
 #include "C01_ActorOverlap.generated.h"
 
