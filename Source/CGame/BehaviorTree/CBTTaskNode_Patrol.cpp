@@ -2,7 +2,7 @@
 
 
 #include "BehaviorTree/CBTTaskNode_Patrol.h"
-
+#include "CGame.h"
 #include "AsyncTreeDifferences.h"
 #include "CPatrolPath.h"
 #include "Global.h"

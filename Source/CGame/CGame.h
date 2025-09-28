@@ -4,3 +4,20 @@
 
 #include "CoreMinimal.h"
 
+#if PLATFORM_WINDOWS
+  #ifdef UpdateResource
+	#undef UpdateResource
+  #endif
+  #ifdef min
+	#undef min
+  #endif
+  #ifdef max
+	#undef max
+  #endif
+  #ifdef GetObject
+	#undef GetObject
+  #endif
+  #ifdef DrawText
+	#undef DrawText
+  #endif
+#endif

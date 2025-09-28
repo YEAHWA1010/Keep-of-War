@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Collision/InteractDoor.h"
+#include "CGame.h"
 
 #include "C01_ActorOverlap.h"
 #include "Components/BoxComponent.h"

@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Components/CTargetComponent.h"
+#include "CGame.h"
 #include "Global.h"
 #include "ParticleHelper.h"
 #include "Blueprint/UserWidget.h"

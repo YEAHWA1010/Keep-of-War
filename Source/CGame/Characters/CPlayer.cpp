@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Characters/CPlayer.h"
+#include "CGame.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Global.h"
 #include "Camera/CameraComponent.h"

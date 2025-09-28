@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "CAnimNotifyState_Equip.h"
+#include "CGame.h"
 #include "Global.h"
 #include "Components/CWeaponComponent.h"
 #include "Weapons/CEquipment.h"

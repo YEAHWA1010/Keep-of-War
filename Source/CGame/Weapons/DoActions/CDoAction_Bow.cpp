@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Weapons/DoActions/CDoAction_Bow.h"
+#include "CGame.h"
 #include "Weapons/Attachments/CAttachment_Bow.h"
 #include "GameFramework/PlayerController.h"
 #include "Global.h"

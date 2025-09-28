@@ -2,6 +2,7 @@
 
 
 #include "BehaviorTree/CBTService_Range.h"
+#include "CGame.h"
 #include "Global.h"
 #include "Characters/CAIController.h"
 #include "Characters/CEnemy_AI.h"

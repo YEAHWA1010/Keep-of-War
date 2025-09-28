@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Weapons/AddOns/CArrow.h"
+#include "CGame.h"
 #include "Global.h"
 #include "Components/ArrowComponent.h"
 #include "GameFramework/ProjectileMovementComponent.h"

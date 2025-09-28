@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Components/CStateComponent.h"
+#include "CGame.h"
 
 // Sets default values for this component's properties
 UCStateComponent::UCStateComponent()

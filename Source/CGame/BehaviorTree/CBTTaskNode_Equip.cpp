@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "BehaviorTree/CBTTaskNode_Equip.h"
+#include "CGame.h"
 #include "Global.h"
 #include "Characters/CEnemy_AI.h"
 #include "Characters/CAIController.h"

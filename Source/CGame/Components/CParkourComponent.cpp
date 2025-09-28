@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Components/CParkourComponent.h"
+#include "CGame.h"
 
 #include "AsyncTreeDifferences.h"
 #include "Global.h"

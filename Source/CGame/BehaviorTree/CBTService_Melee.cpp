@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "BehaviorTree/CBTService_Melee.h"
+#include "CGame.h"
 #include "Global.h"
 #include "Characters/CAIController.h"
 #include "Characters/CEnemy_AI.h"

@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Weapons/DoActions/CDoAction_Combo.h"
+#include "CGame.h"
 #include "Global.h"
 #include "Chaos/Utilities.h"
 #include "GameFramework/Character.h"

@@ -1,4 +1,5 @@
 #include "Utilities/CLog.h"
+#include "CGame.h"
 #include "Engine.h"
 
 DEFINE_LOG_CATEGORY_STATIC(Game, Display, All)

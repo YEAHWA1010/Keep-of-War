@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "BehaviorTree/CEnvQueryContext_Target.h"
+#include "CGame.h"
 #include "Global.h"
 #include "Characters/CEnemy_AI.h"
 #include "Components/CAIBehaviorComponent.h"

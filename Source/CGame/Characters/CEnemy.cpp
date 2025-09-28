@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Characters/CEnemy.h"
+#include "CGame.h"
 
 #include "CAnimInstance.h"
 #include "Global.h"

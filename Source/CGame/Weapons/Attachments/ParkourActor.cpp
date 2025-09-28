@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Weapons/Attachments/ParkourActor.h"
+#include "CGame.h"
 #include "Global.h"
 // Sets default values
 AParkourActor::AParkourActor()
